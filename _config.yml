@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Critical Code
+title: CMAC Makerbot
 url: "http://yourdomain.com"
 baseurl:
 google_analytics_key:
@@ -9,7 +9,7 @@ show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: "ISS 294L - Interactive Graphics: Critical Code, Spring 2018"
+description: "Documentation For CMAC Makerbot 3D Printer"
 author: 
   name:
   email:
